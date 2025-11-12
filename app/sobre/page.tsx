@@ -6,7 +6,7 @@ export default function Sobre() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-12">
         <div className="md:w-1/2">
           <Image
-            src="/about.jpg"
+            src="/about.png"
             alt="Equipe MapScale"
             width={500}
             height={400}
