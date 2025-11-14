@@ -11,7 +11,7 @@ export default function Hero() {
             <span className="text-emerald-600">para impulsionar o seu negócio</span>
           </h1>
           <p className="mt-6 text-lg text-gray-600">
-          A MapScale desenvolve sistemas, plataformas e integrações que transformam processos em resultados.
+          A MapScale desenvolve sistemas, plataformas, bots e integrações que transformam processos em resultados.
         Conectamos dados, automação e design para gerar eficiência e crescimento.
           </p>
           <a
